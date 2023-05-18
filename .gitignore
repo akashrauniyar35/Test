@@ -63,4 +63,4 @@ yarn-error.log
 .metro-health-check*
 
 #clone floder ignore
-clone/
+clone/clear
